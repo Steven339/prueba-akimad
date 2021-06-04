@@ -1,3 +1,7 @@
+# Token
+
+Put your token in .env file like this (TOKEN='asda_saswws......')
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
